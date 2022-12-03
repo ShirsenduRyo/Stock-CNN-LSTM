@@ -1,2 +1,5 @@
+/keras_metadata.pb
+/saved_model.pb
 /Dataset
 /logs
+/variables
