@@ -1,0 +1,6 @@
+CLED - 0.438
+CLED With Custom Activation 5x(Last Layer) : 0.36
+CLED With Custom Activation 5x -1(Last Layer) : 0.39
+CLED With Custom Activation 5.5x -1(Last Layer) : 0.41
+CLED With Custom Activation 6x -1(Last Layer) : 0.41
+CLED With Custom Activation 4.4x(Last Layer) : 0.45
